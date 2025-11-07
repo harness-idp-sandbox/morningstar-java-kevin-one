@@ -23,9 +23,6 @@ metadata:
     grafana/overview-dashboard: http://ad22550bc83bc440694eb9a51da66f49-390405079.us-east-1.elb.amazonaws.com/d/19a44328-b2d2-4fb2-bfa3-d379d069124a/jvm-micrometer?orgId=1&kiosk
     sonarqube.org/project-key: morningstar-java-kevin-one
     backstage.io/kubernetes-label-selector: app=javakevinone
-    harness.io/sto-test-target:
-    - name: harness-idp-sandbox/morningstar-java-kevin-one
-      scope: Sandbox.morningstar
     harness.io/pipelines: |
       Build and Deploy: https://app.harness.io/ng/account/EeRjnXTnS4GrLG5VNNJZUw/all/orgs/sandbox/projects/parson/pipelines/Java_App_Provisioner/pipeline-studio/?storeType=INLINE
   links:
